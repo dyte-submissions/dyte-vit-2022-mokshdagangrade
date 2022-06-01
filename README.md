@@ -39,8 +39,6 @@
   <p align="center">
     This is a python tool that automates the process of reviewing repositories from a file and sending pull requests after committing the changes.
     <br />
-    <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
     
   </p>
 </div>
@@ -77,8 +75,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 This is a Python Command Line Tool that helps to query Github Repositories and find out their versions, as well as update the versions and send a Pull Request to the main branch. This tool can automate the process and in future can be customised to a more personalised tool for specific requests.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -98,32 +94,21 @@ This is a Python Command Line Tool that helps to query Github Repositories and f
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+* Git
+* Python
+* Generate a github personal access token with scopes: repo, admin:org, gist
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/dyte-submissions/dyte-vit-2022-mokshdagangrade.git
    ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+2. Go to the dist folder and open cmd.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -132,10 +117,44 @@ This is an example of how to list things you need to use the software and how to
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+There are three commands to enter in the command prompt. A sample input.csv is there in this project.
+1. Get Repository Details of repos in the csv file.
+```sh
+   pyGithubBot repodetails input.csv axios
+   ```
+   <div align="center">
+    <img src="images/repodetails.png" alt="ss" width="700" height="350">
+  </div>
+  <br><br>
+2. Check if the versions of the repos in input file are above the given version.
+Command: pyGithubBot info {input file} {os} {version}
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+```sh
+   pyGithubBot info input.csv axios 0.35.0
+   ```
+3. This will update the versions, commit, push and generate a pull request. 
+Command: pyGithubBot update {input file} {os} {version}
 
+```sh
+   pyGithubBot update input.csv axios 0.35.0
+   ```
+   <div align="center">
+    <img src="images/info_update.png" alt="ss" width="700" height="350">
+  </div>
+  <br><br>
+  
+  <div align="center">
+    <img src="images/input.png" alt="ss" width="700" height="350">
+  </div>
+  <br><br>
+  <div align="center">
+    <img src="images/output.png" alt="ss" width="700" height="350">
+  </div>
+  <br><br>
+<div align="center">
+    <img src="images/tool_folder.png" alt="ss" width="700" height="350">
+  </div>
+  <br><br>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
@@ -181,9 +200,7 @@ Project Link: [[https://github.com/github_username/repo_name](https://github.com
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
-* []()
-* []()
+* Dyte.io Team for giving me this assignment. 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
