@@ -108,7 +108,7 @@ To get a local copy up and running follow these simple example steps.
    ```sh
    git clone https://github.com/dyte-submissions/dyte-vit-2022-mokshdagangrade.git
    ```
-2. Go to the dist folder and there will be pyGithubBot.exe file. In that folder, open cmd. Or go the dist directory from cmd. 
+2. Go to the dist folder and there will be pyGithubBot.exe file. In that folder, open cmd. Or go the dist directory from cmd. Then run the commands below. 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
