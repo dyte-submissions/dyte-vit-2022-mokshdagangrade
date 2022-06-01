@@ -31,7 +31,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/dyte-submissions/dyte-vit-2022-mokshdagangrade/">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/pyGithubBot_logo.png" alt="Logo" width="200" height="200">
   </a>
 
 <h3 align="center">pyGithubBot</h3>
@@ -172,7 +172,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Your Name - Mokshda Gangrade - mokshdagangrade@gmail.com
 
-Project Link: [[https://github.com/github_username/repo_name](https://github.com/dyte-submissions/dyte-vit-2022-mokshdagangrade/)]([https://github.com/github_username/repo_name](https://github.com/dyte-submissions/dyte-vit-2022-mokshdagangrade/))
+Project Link: [[https://github.com/github_username/repo_name](https://github.com/dyte-submissions/dyte-vit-2022-mokshdagangrade/)]
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
