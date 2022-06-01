@@ -30,23 +30,18 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://github.com/dyte-submissions/dyte-vit-2022-mokshdagangrade/">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">pyGithubBot</h3>
 
   <p align="center">
-    project_description
-    <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    This is a python tool that automates the process of reviewing repositories from a file and sending pull requests after committing the changes.
     <br />
     <br />
     <a href="https://github.com/github_username/repo_name">View Demo</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    
   </p>
 </div>
 
@@ -70,7 +65,6 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -85,7 +79,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+This is a Python Command Line Tool that helps to query Github Repositories and find out their versions, as well as update the versions and send a Pull Request to the main branch. This tool can automate the process and in future can be customised to a more personalised tool for specific requests.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -93,15 +87,10 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 ### Built With
 
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-
+* [Python](https://www.python.org/)
+* [pyGithub](https://github.com/PyGithub/PyGithub)
+* [GitPython](https://github.com/gitpython-developers/GitPython)
+* [Typer](https://typer.tiangolo.com/)
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
@@ -151,20 +140,6 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 
 
-<!-- ROADMAP -->
-## Roadmap
-
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
-
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
 <!-- CONTRIBUTING -->
 ## Contributing
 
@@ -195,9 +170,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Your Name - Mokshda Gangrade - mokshdagangrade@gmail.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [[https://github.com/github_username/repo_name](https://github.com/dyte-submissions/dyte-vit-2022-mokshdagangrade/)]([https://github.com/github_username/repo_name](https://github.com/dyte-submissions/dyte-vit-2022-mokshdagangrade/))
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
