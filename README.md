@@ -21,9 +21,8 @@
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/mokshda-gangrade-753b281b3/)
 
 
 
@@ -191,7 +190,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Your Name - Mokshda Gangrade - mokshdagangrade@gmail.com
 
-Project Link: [[https://github.com/github_username/repo_name](https://github.com/dyte-submissions/dyte-vit-2022-mokshdagangrade/)]
+Project Link: [https://github.com/dyte-submissions/dyte-vit-2022-mokshdagangrade/](https://github.com/dyte-submissions/dyte-vit-2022-mokshdagangrade/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
