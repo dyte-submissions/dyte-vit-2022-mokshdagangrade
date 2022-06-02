@@ -182,6 +182,10 @@ Command: pyGithubBot update {input file} {os} {version}
     <img src="images/tool_folder.png" alt="ss" width="700" height="350">
   </div>
   <br><br>
+<div align="center">
+    <img src="images/pull_request.png" alt="ss" width="700" height="350">
+  </div>
+  <br><br>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
