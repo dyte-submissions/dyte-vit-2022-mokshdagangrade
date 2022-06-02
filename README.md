@@ -100,6 +100,31 @@ To get a local copy up and running follow these simple example steps.
 * Git
 * Python
 * Generate a github personal access token with scopes: repo, admin:org, gist
+* Typer
+```sh
+   pip install typer
+   ```
+* GitPython
+```sh
+   pip install python-git
+   ```
+* pyGithub
+```sh
+   pip install github
+   ```
+* JSON
+```sh
+   pip install json
+   ```
+* OS
+```sh
+   pip install os
+   ```
+* Git
+```sh
+   pip install git
+   ```
+  
 
 ### Installation
 
