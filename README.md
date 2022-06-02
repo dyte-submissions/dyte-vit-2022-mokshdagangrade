@@ -150,13 +150,16 @@ There are three commands to enter in the command prompt. A sample input.csv is t
     <img src="images/repodetails.png" alt="ss" width="700" height="350">
   </div>
   <br><br>
-2. Check if the versions of the repos in input file are above the given version.
+2. Check if the versions of the repos in input file are above the given version. An output file will be generated.
+
 Command: pyGithubBot info {input file} {os} {version}
 
 ```sh
    pyGithubBot info input.csv axios 0.35.0
    ```
-3. This will update the versions, commit, push and generate a pull request. 
+<br><br>
+3. This will update the versions, commit, push and generate a pull request.  An output file will be generated.
+
 Command: pyGithubBot update {input file} {os} {version}
 
 ```sh
